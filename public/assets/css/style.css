@@ -2855,6 +2855,7 @@ span.notify-right{
   border: 1px solid #eaeaea;
 }
 #left_column .block .title_block{
+  color: #ec1c24;
   font-size: 16px;
   font-weight: bold;
   border-bottom: 1px solid #eaeaea;
@@ -3158,7 +3159,7 @@ span.notify-right{
     clear: both;
     padding-left: 15px;
     padding-right: 15px;
-    background: #F36;
+    background: #ec1c24;
 }
 
 .btn-add-cart:hover{
@@ -3327,6 +3328,7 @@ span.notify-right{
 }
 .page-heading span.page-heading-title2{
   text-transform: uppercase;
+  color: #ec1c24;
 }
 .no-line{
   border-bottom: none;
@@ -3757,6 +3759,7 @@ span.notify-right{
 }
 #product .pb-right-column .product-name{
   font-size: 24px;
+  color: #ec1c24;
 }
 #product .pb-right-column .product-comments .product-star,
 #product .pb-right-column .product-comments .comments-advices{
@@ -5207,4 +5210,9 @@ span.notify-right{
 .block-popular-cat .more:hover{
   color: #fff;
   opacity: 0.8;
+}
+
+/* ======== Custom css by Nhơn ======== */
+.center_column .single-box h2{
+  color: #ec1c24;
 }
