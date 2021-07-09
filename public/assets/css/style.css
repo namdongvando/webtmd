@@ -4492,6 +4492,7 @@ span.notify-right{
 .checkout-page .checkout-sep{
   padding-bottom: 15px;
   text-transform: uppercase;
+  color: #ec1c24;
 }
 .checkout-page .box-border{
   margin-bottom: 15px;
@@ -5217,6 +5218,16 @@ span.notify-right{
 .center_column .single-box h2{
   color: #ec1c24;
 }
-.total_price_cart{
+.total_price_cart, .total_price_checkout{
   color: #ec1c24;
+}
+.pay_label
+{
+  border: solid 1px #eaeaea;
+  padding: 20px;
+}
+.checkout-page .shipping_method .fee_ship{
+  color: #ec1c24;
+  margin-left: 84px;
+  padding: 2px;
 }
