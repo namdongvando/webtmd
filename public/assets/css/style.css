@@ -3703,6 +3703,7 @@ span.notify-right{
 } 
 .cart_summary .price{
   text-align: right;
+  color: #ec1c24;
 }
 .cart_summary .qty{
   text-align: center;
@@ -4777,8 +4778,8 @@ span.notify-right{
 }
 #footer2 .footer-row{
   padding: 45px 0;
-  background-color: rgba(0, 0, 0, 0.8);
-  background: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.6);
   color: #fff;
 }
 #footer2 .footer-center{
@@ -5214,5 +5215,8 @@ span.notify-right{
 
 /* ======== Custom css by Nhơn ======== */
 .center_column .single-box h2{
+  color: #ec1c24;
+}
+.total_price_cart{
   color: #ec1c24;
 }
